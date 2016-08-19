@@ -11,6 +11,11 @@ color:
     - '#22A88B'
   rhythmicContrast: 0.6272077
 layout_spectrum: 0
-name: 食飯 SikFan
-title: 食飯
+author:
+  name: Alfie Ng
+  email: nycnami@yahoo.com.hk
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9a2fe8a-40a0-456d-b42e-16188ef39509.jpg
+name: 食飯
+title: 位於台北市松山區的港式餐廳，由兩位愛吃愛玩的香港年輕人主理
 description: 位於台北市松山區的港式餐廳，由兩位愛吃愛玩的香港年輕人主理
