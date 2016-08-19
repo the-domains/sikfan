@@ -1,14 +1,14 @@
-layout_spectrum: 0.9224877683445811
-typography_spectrum: 0.5367494623642415
+layout_spectrum: 0
+typography_spectrum: 0.8265306
 color:
-  brandStrength: 0.7330416445620358
-  lightness: 0.7187067524064332
-  saturation: 0.438813199987635
-  rhythmicContrast: 0.982704586815089
+  saturation: 0.02112063
+  lightness: 0.4142689
+  brandStrength: 1
   brandColors:
-    - '#E3E1EC'
-    - '#0F0E14'
-    - '#8A602E'
-    - '#E3C300'
-    - '#3F640F'
-name: 食飯SikFan
+    - '#060407'
+    - '#FFF9E9'
+    - '#665136'
+    - '#B08B57'
+    - '#22A88B'
+  rhythmicContrast: 0.6272077
+name: 食飯 SikFan
